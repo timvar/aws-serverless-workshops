@@ -1,0 +1,12 @@
+{
+	"folders": [
+		{
+			"path": "/Users/timo.varila/projects/aws-serverless-workshops/WebApplication"
+		},
+		{
+			"name": "sam-vscode-test1",
+			"path": "/Users/timo.varila/projects/sam-vscode-test1"
+		}
+	],
+	"settings": {}
+}

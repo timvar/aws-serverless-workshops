@@ -1,0 +1,27 @@
+{
+  "RequestTime": {
+    "S": "2019-07-30T14:42:32.094Z"
+  },
+  "RideId": {
+    "S": "2xNuElsJ0kZFEU398OcwHg"
+  },
+  "Unicorn": {
+    "M": {
+      "Color": {
+        "S": "Golden"
+      },
+      "Gender": {
+        "S": "Male"
+      },
+      "Name": {
+        "S": "Bucephalus"
+      }
+    }
+  },
+  "UnicornName": {
+    "S": "Bucephalus"
+  },
+  "User": {
+    "S": "hubovatu-at-getnada.com"
+  }
+}
